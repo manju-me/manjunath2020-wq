@@ -1,4 +1,5 @@
 ### Hello, I'm Manjunath H! 👋
+[![HitCount](http://hits.dwyl.com/manjunath2020-wq/manjunath2020-wq.svg)](http://hits.dwyl.com/manjunath2020-wq/manjunath2020-wq)
 
 - 🔭 I’m currently working on MJ.Tech.
 - 🌱 I’m currently learning Python.
